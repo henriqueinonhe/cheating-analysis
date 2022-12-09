@@ -1,0 +1,19 @@
+{
+  "name": "cheating-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lachenmayer/longest-common-subsequence": "^1.0.1",
+    "csv-parse": "^4.16.3",
+    "diff": "^5.0.0",
+    "node-lcs": "^1.0.3",
+    "string-algorithms": "^1.0.31"
+  }
+}
